@@ -67,7 +67,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/priyuan/myntra-ar-vr-project.git
+git clone https://github.com/Priyuan/myntra-project24.git
 Navigate to the Project Directory:
 
 bash
